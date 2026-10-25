@@ -48,8 +48,4 @@ Sebagai Mobile Apps Developer, Anda akan bekerja sama dengan tim UI/UX Designer,
 
 ## 📩 Cara Melamar
 
-Kirimkan CV terbaru beserta **tautan portofolio** (Google Play, App Store, atau GitHub) ke:
-
-* **Email:** hr@perusahaananda.com
-* **Subjek Email:** `Mobile Apps Developer - [Nama Anda]`
-* **Batas Akhir Pengiriman:** \[Tanggal/Bulan/Tahun\]
+Kirimkan CV terbaru beserta **tautan portofolio** (Google Play, App Store, atau GitHub) ke rajaemasindonesia@gmail.com
